@@ -1,0 +1,7 @@
+{
+  "name": "NG_API",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
