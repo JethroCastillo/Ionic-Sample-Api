@@ -9,4 +9,4 @@ No hay una gran integracion. solo mostrar los elementos y estilizarlos un poco p
 
 Imagen completa de la vista de desarrollo:
 
-<img src="IonicApi (3).png" width="500px">
+<img src="IonicApi (1).png" width="500px">
